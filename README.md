@@ -1,5 +1,5 @@
-# taryn-token-contract
-ERC20 token with mint and distribution functions
+# TrustProtocol-Contract
+ERC20 token for assets tokenized on the TrustToken Platform.
 
 ## Instructions
 ```
