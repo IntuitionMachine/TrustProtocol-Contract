@@ -1,5 +1,5 @@
 # TrustProtocol-Contract
-ERC20 token for assets tokenized on the TrustToken Platform.
+Prototype ERC20 token for assets tokenized on the TrustToken Platform.
 
 ## Instructions
 ```
